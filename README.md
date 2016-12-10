@@ -1,2 +1,5 @@
 # hello-world
-Tutorial
+
+Hi all! 
+
+Just getting started here, very exciting!
